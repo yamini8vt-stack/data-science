@@ -1,0 +1,5 @@
+{
+  "name": "CineMatch AI",
+  "description": "An intelligent movie recommendation system that uses AI to find your next favorite film based on your unique taste and mood.",
+  "requestFramePermissions": []
+}
